@@ -1,7 +1,7 @@
 # SQL-Data-Analys-Web-Scraped-NBA-Data
 
 # Motivation
-This notebook is intended to be educational for those looking to learn the basics of SQL. It involves using SQL to perform data analysis on using a database containing information about the National Basketball Association (NBA). In the process, we will explore the data, utilize joins, perform basic analytics, and create visualizations of relevant trends.
+This notebook is intended to be educational for those looking to learn the fundamentals of SQL. It involves using SQL to perform simple data analysis on a web scraped database containing information about the National Basketball Association (NBA). In the process, we will explore the data, utilize joins, perform basic analytics, and create visualizations of relevant trends.
 
 # Process
 Our analysis will adhere to the following 4 steps:
