@@ -1,4 +1,4 @@
-# SQL-Data-Analysis-NBA-Data
+# SQLite-Data-Analysis-NBA-Data
 
 # Motivation
 This notebook is intended to be educational for those looking to learn the fundamentals of SQLite. 
