@@ -1,9 +1,9 @@
-# SQLite-Data-Analysis-NBA-Data
+# SQL-Analysis-NBA-Data
 
 # Motivation
-This notebook is intended to be educational for those looking to learn the fundamentals of SQLite. 
+This notebook is intended to be educational for those looking to learn the fundamentals of SQL. 
 
-It involves using SQLite to perform simple data analysis on a database containing information about the National Basketball Association (NBA). 
+It involves using SQL to perform simple data analysis on a database containing information about the National Basketball Association (NBA). 
 
 In the process, we will explore the data, utilize joins, perform basic analytics, and create visualizations of relevant trends.
 
